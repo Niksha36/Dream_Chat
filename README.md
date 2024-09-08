@@ -48,8 +48,7 @@ This is chat application that was inspired by WhatsApp 💬
 <img src="https://github.com/user-attachments/assets/eadb84aa-8d23-45d0-93e7-bb5b010ed07b" alt="8" style="width: 30%; height: auto;"/>
 
 
-**Registration**
-after OTP verification
+**Registration (after OTP verification)**
 <img src="https://github.com/user-attachments/assets/ecc6a847-ac15-4f80-8e50-c7d7b36a589e" alt="9" style="width: 30%; height: auto;"/>
 <img src="https://github.com/user-attachments/assets/57d15f3e-8a6f-4818-b4a5-021a515a80d9" alt="10" style="width: 30%; height: auto;"/>
 <img src="https://github.com/user-attachments/assets/e2ff93c3-fcc6-4640-8c2b-1b5c390ac6df" alt="11" style="width: 30%; height: auto;"/>
