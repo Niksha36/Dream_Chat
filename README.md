@@ -29,4 +29,4 @@ This is chat application that was inspired by WhatsApp 💬
 13) Kotlin Coroutines
 
 # Chat Navigation graph
-<img src="https://github.com/user-attachments/assets/d4ab0442-e300-459a-b9c7-5ffed397ea7e" alt="Screenshot_2024-07-31-22-29-33-694_com example dailynews" style="width: 30%; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/d4ab0442-e300-459a-b9c7-5ffed397ea7e" alt="Screenshot_2024-07-31-22-29-33-694_com example dailynews" style="width: 80%; height: auto;"/>
