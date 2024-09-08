@@ -38,12 +38,14 @@ This is chat application that was inspired by WhatsApp 💬
   <img src="https://github.com/user-attachments/assets/1be17cf8-7ec9-43f9-b660-888e2133ec94" alt="2" style="width: 30%; height: auto;"/>
   <img src="https://github.com/user-attachments/assets/a79bd7d3-8f93-4d97-bb81-6bf2951912d3" alt="3" style="width: 30%; height: auto;"/>
 </p>
+
 **Chat creation**
 <p>
   <img src="https://github.com/user-attachments/assets/8883f299-f2fb-4e97-b66a-20d43055a787" alt="3" style="width: 30%; height: auto;"/>
   <img src="https://github.com/user-attachments/assets/58ab6137-9fce-470d-8bcd-bf895c9aeb65" alt="3" style="width: 30%; height: auto;"/>
   <img src="https://github.com/user-attachments/assets/dae7167f-c557-4616-be00-dc89ad83f08d" alt="3" style="width: 30%; height: auto;"/>
 </p>
+
 **Changing user data and logout dialog**
 <p>
   <img src="https://github.com/user-attachments/assets/fde2739c-5fc4-4c67-8875-d7c037d7fa6e" alt="6" style="width: 30%; height: auto;"/>
