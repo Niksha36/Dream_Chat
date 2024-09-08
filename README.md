@@ -18,6 +18,6 @@ This is chat application that was inspired by WhatsApp 💬
 
 8) Shared Prefferences and convert Java Objects into JSON
 
-9) Android-Image-Cropper(https://github.com/CanHub/Android-Image-Cropper)
+9) [ Android-Image-Cropper ](https://github.com/CanHub/Android-Image-Cropper)
 
 10) 
