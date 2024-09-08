@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.getstream:stream-result-call:1.2.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.getstream" artifactId="stream-result-call" version="1.2.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-result-call/1.2.0/49d360a1e6e9b245f83f2b3bbe1edb504e5670c4/stream-result-call-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-result-call/1.2.0/70b396554ec4c9cf5cf408234bace1fe07f45c5/stream-result-call-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-result-call/1.2.0/32bcdd4d9966733872805220435063e9070b2074/stream-result-call-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

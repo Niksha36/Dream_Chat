@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.getstream:stream-chat-android-core:6.5.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.getstream" artifactId="stream-chat-android-core" version="6.5.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-chat-android-core/6.5.0/4f5f08f89b5763803173f2297d60f22f86151488/stream-chat-android-core-6.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-chat-android-core/6.5.0/670d30c9fd10b2e8f7be68b5d274070c26ee5b23/stream-chat-android-core-6.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-chat-android-core/6.5.0/86d859527231c06bca50202b903742e2457be985/stream-chat-android-core-6.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

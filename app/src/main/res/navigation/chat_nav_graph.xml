@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/chat_nav_graph"
+    app:startDestination="@id/enterPhoneFragment">
+
+    <fragment
+        android:id="@+id/enterPhoneFragment"
+        android:name="com.example.dreamchat.ui.login_fragments.EnterPhoneFragment"
+        android:label="EnterPhoneFragment" >
+        <action
+            android:id="@+id/action_enterPhoneFragment_to_phoneVerificationFragment"
+            app:destination="@id/phoneVerificationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/phoneVerificationFragment"
+        android:name="com.example.dreamchat.ui.login_fragments.PhoneVerificationFragment"
+        android:label="fragment_phone_verifivation"
+        tools:layout="@layout/fragment_phone_verifivation" >
+        <action
+            android:id="@+id/action_phoneVerificationFragment_to_userDataFragment"
+            app:destination="@id/userDataFragment" />
+        <action
+            android:id="@+id/action_phoneVerificationFragment_to_chatListFragment"
+            app:destination="@id/chatListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/userDataFragment"
+        android:name="com.example.dreamchat.ui.login_fragments.UserDataFragment"
+        android:label="fragment_user_data"
+        tools:layout="@layout/fragment_user_data" >
+        <action
+            android:id="@+id/action_userDataFragment_to_chatListFragment"
+            app:destination="@id/chatListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/chatListFragment"
+        android:name="com.example.dreamchat.ui.chat_fragments.ChatListFragment"
+        android:label="fragment_chat_list"
+        tools:layout="@layout/fragment_chat_list" >
+        <action
+            android:id="@+id/action_chatListFragment_to_chatFragment"
+            app:destination="@id/chatFragment" />
+        <action
+            android:id="@+id/action_chatListFragment_to_chatsFromContactFragment"
+            app:destination="@id/chatsFromContactFragment" />
+        <action
+            android:id="@+id/action_chatListFragment_to_changeUserDataFragment"
+            app:destination="@id/changeUserDataFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/chatFragment"
+        android:name="com.example.dreamchat.ui.chat_fragments.ChatFragment"
+        android:label="fragment_chat"
+        tools:layout="@layout/fragment_chat" >
+        <argument
+            android:name="chatId"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/chatsFromContactFragment"
+        android:name="com.example.dreamchat.ui.chat_fragments.ChatsFromContactFragment"
+        android:label="fragment_chats_from_contact"
+        tools:layout="@layout/fragment_chats_from_contact" >
+        <action
+            android:id="@+id/action_chatsFromContactFragment_to_createChannelFragment"
+            app:destination="@id/createChannelFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/createChannelFragment"
+        android:name="com.example.dreamchat.ui.chat_fragments.CreateChannelFragment"
+        android:label="fragment_create_channel"
+        tools:layout="@layout/fragment_create_channel" >
+        <action
+            android:id="@+id/action_createChannelFragment_to_chatListFragment"
+            app:destination="@id/chatListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/changeUserDataFragment"
+        android:name="com.example.dreamchat.ui.chat_fragments.ChangeUserDataFragment"
+        android:label="fragment_change_user_data"
+        tools:layout="@layout/fragment_change_user_data" >
+        <action
+            android:id="@+id/action_changeUserDataFragment_to_enterPhoneFragment"
+            app:destination="@id/enterPhoneFragment" />
+        <action
+            android:id="@+id/action_changeUserDataFragment_to_chatListFragment"
+            app:destination="@id/chatListFragment" />
+    </fragment>
+</navigation>
