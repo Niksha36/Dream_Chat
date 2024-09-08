@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.getstream:stream-chat-android-ui-common:6.5.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/eb0628a813dd9bf9f560f32434a55614/transformed/stream-chat-android-ui-common-6.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/eb0628a813dd9bf9f560f32434a55614/transformed/stream-chat-android-ui-common-6.5.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/eb0628a813dd9bf9f560f32434a55614/transformed/stream-chat-android-ui-common-6.5.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-chat-android-ui-common/6.5.0/d92b8d37320a8f64b486ccb7e06c2955701d3e71/stream-chat-android-ui-common-6.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.getstream/stream-chat-android-ui-common/6.5.0/9b86659dcaadbd48b577b6aaed0a755c2a64c1af/stream-chat-android-ui-common-6.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
