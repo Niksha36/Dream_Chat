@@ -1,6 +1,6 @@
 # Dream_Chat
 This is chat application that was inspired by WhatsApp 💬
-
+[ **Video demonstrating the functionality of the application**](https://youtu.be/TiNjZcu3AEI?si=ohFC6W-QTWd2gvRv)
 # Features that were applyed in this project
 1) Dagger-Hilt 🗡️
 
