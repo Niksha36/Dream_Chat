@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Dream Chat</string>
-    <string name="api_key">yxyx46cts63h</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="sending_verification_code">Verification code has been successfully sent</string>
-</resources>
